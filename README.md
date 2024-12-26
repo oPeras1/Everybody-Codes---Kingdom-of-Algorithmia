@@ -9,7 +9,7 @@
 | [Quest 1](https://everybody.codes/event/2024/quests/1) | The Battle for the Farmlands | ⭐️ | ⭐️ | ⭐️ | Python |
 | [Quest 2](https://everybody.codes/event/2024/quests/2) | The Runes of Power   | ⭐️ | ⭐️ | ⭐️ | Python |
 | [Quest 3](https://everybody.codes/event/2024/quests/3) | Mining Maestro      | ⭐️ | ⭐️ | ⭐️ | Python |
-| [Quest 4](https://everybody.codes/event/2024/quests/4) | [Challenge name]      | | | | |
+| [Quest 4](https://everybody.codes/event/2024/quests/4) | Royal Smith's Puzzle      | ⭐️ | ⭐️ | ⭐️ | Python |
 | [Quest 5](https://everybody.codes/event/2024/quests/5) | [Challenge name]      | | | | |
 | [Quest 6](https://everybody.codes/event/2024/quests/6) | [Challenge name]      | | | | |
 | [Quest 7](https://everybody.codes/event/2024/quests/7) | [Challenge name]      | | | | |
