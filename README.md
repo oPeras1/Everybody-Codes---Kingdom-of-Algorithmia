@@ -11,7 +11,7 @@
 | [Quest 3](https://everybody.codes/event/2024/quests/3) | Mining Maestro      | ⭐️ | ⭐️ | ⭐️ | Python |
 | [Quest 4](https://everybody.codes/event/2024/quests/4) | Royal Smith's Puzzle      | ⭐️ | ⭐️ | ⭐️ | Python |
 | [Quest 5](https://everybody.codes/event/2024/quests/5) | Pseudo-Random Clap Dance      | ⭐️ | ⭐️ | ⭐️ | Python |
-| [Quest 6](https://everybody.codes/event/2024/quests/6) | [Challenge name]      | | | | |
+| [Quest 6](https://everybody.codes/event/2024/quests/6) | The Tree of Titans      | ⭐️ | ⭐️ | ⭐️ | Python |
 | [Quest 7](https://everybody.codes/event/2024/quests/7) | [Challenge name]      | | | | |
 | [Quest 8](https://everybody.codes/event/2024/quests/8) | [Challenge name]      | | | | |
 | [Quest 9](https://everybody.codes/event/2024/quests/9) | [Challenge name]      | | | | |
