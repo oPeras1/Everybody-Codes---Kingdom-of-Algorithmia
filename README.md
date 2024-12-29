@@ -13,7 +13,7 @@
 | [Quest 5](https://everybody.codes/event/2024/quests/5) | Pseudo-Random Clap Dance      | ⭐️ | ⭐️ | ⭐️ | Python |
 | [Quest 6](https://everybody.codes/event/2024/quests/6) | The Tree of Titans      | ⭐️ | ⭐️ | ⭐️ | Python |
 | [Quest 7](https://everybody.codes/event/2024/quests/7) | Not Fast but Furious      | ⭐️ | ⭐️ | ⭐️ | Python |
-| [Quest 8](https://everybody.codes/event/2024/quests/8) | [Challenge name]      | | | | |
+| [Quest 8](https://everybody.codes/event/2024/quests/8) | A Shrine for Nullpointer      | ⭐️ | ⭐️ | ⭐️ | Python |
 | [Quest 9](https://everybody.codes/event/2024/quests/9) | [Challenge name]      | | | | |
 | [Quest 10](https://everybody.codes/event/2024/quests/10) | [Challenge name]      | | | | |
 | [Quest 11](https://everybody.codes/event/2024/quests/11) | [Challenge name]      | | | | |
