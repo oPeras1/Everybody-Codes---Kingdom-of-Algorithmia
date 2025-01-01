@@ -15,7 +15,7 @@
 | [Quest 7](https://everybody.codes/event/2024/quests/7) | Not Fast but Furious      | ⭐️ | ⭐️ | ⭐️ | Python |
 | [Quest 8](https://everybody.codes/event/2024/quests/8) | A Shrine for Nullpointer      | ⭐️ | ⭐️ | ⭐️ | Python |
 | [Quest 9](https://everybody.codes/event/2024/quests/9) | Sparkling Bugs      | ⭐️ | ⭐️ | ⭐️ | Python |
-| [Quest 10](https://everybody.codes/event/2024/quests/10) | [Challenge name]      | | | | |
+| [Quest 10](https://everybody.codes/event/2024/quests/10) | Shrine Needs to Shine      | ⭐️ | ⭐️ | ⭐️ | Python |
 | [Quest 11](https://everybody.codes/event/2024/quests/11) | [Challenge name]      | | | | |
 | [Quest 12](https://everybody.codes/event/2024/quests/12) | [Challenge name]      | | | | |
 | [Quest 13](https://everybody.codes/event/2024/quests/13) | [Challenge name]      | | | | |
